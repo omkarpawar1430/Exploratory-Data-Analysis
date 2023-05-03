@@ -1,6 +1,6 @@
 ![Alt text](Assets/eda_banner.png)
 
-This a Exploratory Data Analysis ( EDA ) special repository where I am giving you lot of data sets and EDA performed on it. This repo can help you to understand crucial aspects of performing EDA in Data Science.
+This is a Exploratory Data Analysis ( EDA ) special repository where I am giving you lot of data sets and EDA performed on it. This repo can help you to understand crucial aspects of performing EDA in Data Science.
 
 ------------------------------------
 
