@@ -26,5 +26,6 @@ The typical EDA (Exploratory Data Analysis) process involves the following steps
 The EDA process is iterative and may require going back and forth between steps to refine the analysis and gain new insights. The purpose of EDA is to gain an understanding of the data and generate insights that can be used to inform decisions or guide further analysis.
 
 -------------------------------------------
-
+Bonus Tip: If you are total bigener then I suggest that you should first visit [Boston Housing Data Set EDA](https://github.com/omkarpawar1430/Exploratory-Data-Analysis/tree/master/Bostun%20Housing%20Data%20Set)
+ 
 
